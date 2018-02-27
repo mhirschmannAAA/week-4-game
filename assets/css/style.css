@@ -1,0 +1,75 @@
+.container {
+    position: absolute ;
+    width: 700px;
+    border-color: black;
+    border-width: 5px;
+    background-color: aquamarine;
+    margin-bottom: 20px;
+    padding: 10px;    
+  }
+
+  .h1 {
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: 700;
+    color: #4aaaa5;
+    margin-bottom: 20px;
+    padding: 10px;
+    font-size: 30px;
+    color: white;
+    line-height: 49px;
+    border-bottom: 3px solid #ddd;
+    background-color: orange;
+    width: 290px;
+  }
+
+  .main-section {
+      background: bisque;
+      padding: 10px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 16px;
+      color: green;
+      width: 400px;
+  }
+
+  .green {
+      background: forestgreen;
+      width: 100px;
+      height: 40px;
+      float: left;
+      padding: 10px;
+      margin: 20px;
+  }
+
+  .blue {
+      float: left;
+      width: 100px;
+      height: 40px;
+      background: darkturquoise;
+      padding: 10px;
+      margin: 20px;
+  }
+
+  .trans {
+      float: left;
+      background: aquamarine;
+  }
+
+  #redcrystal {
+      float: left;
+      padding: 10px;
+  }
+
+  #bluecrystal {
+    float: left;
+    padding: 10px;
+  }
+
+  #greencrystal {
+    float: left;
+    padding: 10px;
+  }
+
+  #yellowcrystal {
+    float: left;
+    padding: 10px;
+  }
